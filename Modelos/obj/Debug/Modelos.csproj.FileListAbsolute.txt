@@ -1,0 +1,9 @@
+C:\Users\FERNANDO\Desktop\Apic#\Modelos\bin\Debug\Modelos.dll
+C:\Users\FERNANDO\Desktop\Apic#\Modelos\bin\Debug\Modelos.pdb
+C:\Users\FERNANDO\Desktop\Apic#\Modelos\bin\Debug\Datos.dll
+C:\Users\FERNANDO\Desktop\Apic#\Modelos\bin\Debug\Datos.pdb
+C:\Users\FERNANDO\Desktop\Apic#\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\FERNANDO\Desktop\Apic#\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDO\Desktop\Apic#\Modelos\obj\Debug\Modelos.csproj.CopyComplete
+C:\Users\FERNANDO\Desktop\Apic#\Modelos\obj\Debug\Modelos.dll
+C:\Users\FERNANDO\Desktop\Apic#\Modelos\obj\Debug\Modelos.pdb

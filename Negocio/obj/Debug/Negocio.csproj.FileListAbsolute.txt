@@ -1,0 +1,11 @@
+C:\Users\FERNANDO\Desktop\Apic#\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\FERNANDO\Desktop\Apic#\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDO\Desktop\Apic#\Negocio\bin\Debug\Negocio.dll
+C:\Users\FERNANDO\Desktop\Apic#\Negocio\bin\Debug\Negocio.pdb
+C:\Users\FERNANDO\Desktop\Apic#\Negocio\bin\Debug\Datos.dll
+C:\Users\FERNANDO\Desktop\Apic#\Negocio\bin\Debug\Modelos.dll
+C:\Users\FERNANDO\Desktop\Apic#\Negocio\bin\Debug\Datos.pdb
+C:\Users\FERNANDO\Desktop\Apic#\Negocio\bin\Debug\Modelos.pdb
+C:\Users\FERNANDO\Desktop\Apic#\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\FERNANDO\Desktop\Apic#\Negocio\obj\Debug\Negocio.dll
+C:\Users\FERNANDO\Desktop\Apic#\Negocio\obj\Debug\Negocio.pdb
