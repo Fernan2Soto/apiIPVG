@@ -12,11 +12,11 @@ namespace Modelos.Mantenedores
         public int cod { get; set; }
         public string nombre { get; set; }
         public data Data { get; set; }
-        public List<Cargos> cargos { get; set; }
+        public List<Parametros> parametros { get; set; }
         public Cargos()
         {
             Data = new data();
-            cargos = new List<Cargos>();
+            parametros = new List<Parametros>();
         }
     }
 }

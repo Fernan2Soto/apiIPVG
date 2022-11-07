@@ -9,5 +9,7 @@ namespace Modelos
     public class IDataEntity
     {
         public data Data { get; set; }
+        public List<Parametros> parametros { get; set; }
+
     }
 }

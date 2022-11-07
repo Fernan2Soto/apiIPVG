@@ -14,11 +14,11 @@ namespace Modelos.Mantenedores
         public int id_cargo { get; set; }
         public int id_jefe { get; set; }
         public data Data { get; set; }
-        public List<Empleados> empleados { get; set; }
+        public List<Parametros> parametros { get; set; }
         public Empleados()
         {
             Data = new data();
-            empleados = new List<Empleados>();
+            parametros = new List<Parametros>();
         }
 
     }

@@ -13,11 +13,11 @@ namespace Modelos.Mantenedores
         public string apellidos { get; set; }
         public int id_departamento { get; set; }
         public data Data { get; set; }
-        public List<jefes> Jefes { get; set; }
+        public List<Parametros> parametros { get; set; }
         public jefes()
         {
             Data = new data();
-            Jefes = new List<jefes>();
+            parametros = new List<Parametros>();
         }
     }
 }
